@@ -1,9 +1,9 @@
 ## Hi there 👋 
-### I’m currently learning JavaScript and React 
+### I’m currently learning JavaScript and React 🍀
 ### Please check My Portfolio site　👀
 [My Portfolio](https://my-profile-c4824.web.app)
 
--  I'm a college student
+-  I'm a college student　🎓
 
 -  Love Rabbit 🐰, Anime 📺 and Technology💻
 
