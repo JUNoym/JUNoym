@@ -1,4 +1,4 @@
-
+## Hi there 👋 
 ### I’m currently learning JavaScript and React 
 ### Please check My Portfolio site　👀
 [My Portfolio](https://my-profile-c4824.web.app)
