@@ -1,11 +1,11 @@
 ## Hi there 👋 
 ### I’m currently learning JavaScript, React and Python 🍀
-### Please check My Portfolio site　👀
+### Please check out My Portfolio site　👀
 [My Portfolio](https://my-profile-c4824.web.app)
 
 -  I'm a college student　🎓
 
--  Love Rabbit 🐰, Anime 📺 and Technology💻
+-  Love Rabbits 🐰, Anime 📺 and Technology💻
 
 [![](https://raw.githubusercontent.com/JUNoym/JUNoym/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
