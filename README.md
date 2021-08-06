@@ -1,5 +1,5 @@
 ## Hi there 👋 
-### I’m currently learning JavaScript, React and Python 🍀
+### I’m currently learning TypeScript, React and Python 🍀
 ### Please check out My Portfolio site　👀
 [My Portfolio](https://my-profile-c4824.web.app)
 
