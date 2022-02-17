@@ -1,11 +1,4 @@
-## Hi there 👋 
-### I’m currently learning TypeScript, React and Python 🍀
-### Please check out My Portfolio site　👀
-[My Portfolio](https://my-profile-c4824.web.app)
-
--  I'm a college student　🎓
-
--  Love Rabbits 🐰, Anime 📺 and Technology💻
+## こんにちは 👋 
 
 [![](https://raw.githubusercontent.com/JUNoym/JUNoym/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
