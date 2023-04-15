@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/JUNoym/JUNoym/main/profile-summary-card-output/slateorange/4-productive-time.svg)
+```
+
+    
